@@ -118,7 +118,5 @@ def main():
     main_menu_table()
     init_location()
 
-
-    
 if __name__ == "__main__":
     typer.run(main)
