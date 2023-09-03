@@ -6,7 +6,7 @@
 
 ## What it does:
 - This will start a new project folder and main file for **Python** and **Go**</b>
-- This will create a new React/JS or React/TS app using vite and npm
+- This will create a new **React/JS** or **React/TS** app using vite and npm
 
 ## Dependencies
 In its current state requires:
