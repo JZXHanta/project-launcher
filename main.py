@@ -11,7 +11,7 @@ console = Console()
 # Welcome Banner
 def welcome():
     print("Welcome to Project_Launcher!")
-    print("\nSelect a number to scaffold a new project to create")
+    print("\nSelect a number to create a new project")
     
 
 # Table to display project options
